@@ -8,3 +8,4 @@ testing merge-conflict
 testing merge-conflict
 changes made by developer2
 changes made by developer2
+testing fetch command
