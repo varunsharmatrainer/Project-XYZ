@@ -6,5 +6,5 @@ this is to test merging concept on git
 testing branching-merging again
 testing merge-conflict
 testing merge-conflict
-testing merge-conflict
-testing merge-conflict
+changes made by developer2
+changes made by developer2
