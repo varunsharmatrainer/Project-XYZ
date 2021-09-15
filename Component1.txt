@@ -4,3 +4,7 @@ this is to test branching & merging concept on github
 this is to test branching concept on git
 this is to test merging concept on git
 testing branching-merging again
+testing merge-conflict
+testing merge-conflict
+testing merge-conflict
+testing merge-conflict
